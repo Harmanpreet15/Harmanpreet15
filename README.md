@@ -1,9 +1,9 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,50:382033,100:c77da5&height=180&section=header&text=Harmanpreet%20Kaur&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%26%20ML&descSize=15&descAlignY=60" width="100%" alt="Harmanpreet Kaur profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0f,50:382033,100:c77da5&amp;height=180&amp;section=header&amp;text=Harmanpreet%20Kaur&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Computer%20Science%20%7C%20AI%20%26%20ML&amp;descSize=15&amp;descAlignY=60" width="100%" alt="Harmanpreet Kaur profile header"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1000&color=E6A6C7&center=true&vCenter=true&width=600&lines=Learning+%7C+Building+%7C+Improving;Interested+in+AI%2FML+and+Software+Development;Turning+Ideas+into+Working+Projects;One+Problem+at+a+Time." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;duration=3200&amp;pause=1000&amp;color=E6A6C7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Learning+%7C+Building+%7C+Improving;Interested+in+AI%2FML+and+Software+Development;Turning+Ideas+into+Working+Projects;One+Problem+at+a+Time." alt="Typing animation"/>
 </a>
 
 <br/>
@@ -16,19 +16,19 @@
 <br/><br/>
 
 <a href="mailto:harmandhaliwall147@gmail.com">
-<img src="https://img.shields.io/badge/Email-e8a4c4?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-e8a4c4?style=for-the-badge&amp;logo=gmail&amp;logoColor=black" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/harmanpreetkaur-aiml">
-<img src="https://img.shields.io/badge/LinkedIn-e8a4c4?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-e8a4c4?style=for-the-badge&amp;logo=linkedin&amp;logoColor=black" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/harmanpreet15">
-<img src="https://img.shields.io/badge/GitHub-e8a4c4?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-e8a4c4?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=harmanpreet15&label=PROFILE%20VIEWS&color=c77da5&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/harmanpreet15?label=Followers&style=flat-square&color=29232b&logo=github" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=harmanpreet15&amp;label=PROFILE%20VIEWS&amp;color=c77da5&amp;style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/harmanpreet15?label=Followers&amp;style=flat-square&amp;color=29232b&amp;logo=github" alt="GitHub followers"/>
 
 </div>
 
@@ -55,28 +55,28 @@ I enjoy building practical applications, exploring machine learning, and improvi
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,javascript&amp;theme=dark" alt="Languages"/>
 </p>
 
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,django,flask&theme=dark" alt="Web technologies and frameworks"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,django,flask&amp;theme=dark" alt="Web technologies and frameworks"/>
 </p>
 
 ### AI / ML & Data
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-29232b?style=flat-square&logo=numpy&logoColor=e8a4c4" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-29232b?style=flat-square&logo=pandas&logoColor=e8a4c4" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-29232b?style=flat-square&logo=scikitlearn&logoColor=e8a4c4" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Matplotlib-29232b?style=flat-square&logo=plotly&logoColor=e8a4c4" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/NumPy-29232b?style=flat-square&amp;logo=numpy&amp;logoColor=e8a4c4" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-29232b?style=flat-square&amp;logo=pandas&amp;logoColor=e8a4c4" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-29232b?style=flat-square&amp;logo=scikitlearn&amp;logoColor=e8a4c4" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Matplotlib-29232b?style=flat-square&amp;logo=plotly&amp;logoColor=e8a4c4" alt="Matplotlib"/>
 </p>
 
 ### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=sqlite,mongodb,git,github,vscode,postman&theme=dark" alt="Databases and development tools"/>
+<img src="https://skillicons.dev/icons?i=sqlite,mongodb,git,github,vscode,postman&amp;theme=dark" alt="Databases and development tools"/>
 </p>
 
 ---
@@ -86,9 +86,7 @@ I enjoy building practical applications, exploring machine learning, and improvi
 <details>
 <summary><strong>01. StockIt — AI Paper Trading & Investing Education Platform</strong></summary>
 
-<br/>
-
-A full-stack paper trading application that lets beginners practice investing using market prices without risking real money. StockIt combines portfolio simulation, AI-assisted learning, market data, and gamification in one platform.
+A full-stack paper trading application that lets beginners practice investing using market prices without risking real money.
 
 | Category | Details |
 |:---|:---|
@@ -97,8 +95,8 @@ A full-stack paper trading application that lets beginners practice investing us
 | **Market Data** | Finnhub with Yahoo Finance fallback |
 | **AI Functionality** | Portfolio feedback, stock-movement explanations, financial document insights |
 | **User Experience** | XP, streaks, missions, historical market-crash simulator |
-| **Impact** | Helps beginners explore investing without real financial risk |
-| **Repository** | [View StockIt on GitHub](https://github.com/harmanpreet15) |
+| **Impact** | Practice investing without risking real money |
+| **Repository** | [GitHub Profile](https://github.com/harmanpreet15) |
 
 **What I worked on**
 - Built a paper trading experience using market data.
@@ -114,9 +112,7 @@ A full-stack paper trading application that lets beginners practice investing us
 <details>
 <summary><strong>02. Diabetes Prediction — Machine Learning</strong></summary>
 
-<br/>
-
-A machine learning project that predicts diabetes risk using patient health data. The project covers data preprocessing, feature engineering, class-imbalance handling, model comparison, and evaluation.
+A machine learning project that predicts diabetes risk using patient health data.
 
 | Category | Details |
 |:---|:---|
@@ -127,7 +123,7 @@ A machine learning project that predicts diabetes risk using patient health data
 | **Model Selection** | GridSearchCV |
 | **Best Reported Results** | 89% accuracy · 0.94 ROC-AUC |
 | **Impact** | Demonstrates an end-to-end machine learning workflow |
-| **Repository** | [View GitHub Repositories](https://github.com/harmanpreet15?tab=repositories) |
+| **Repository** | [GitHub Repositories](https://github.com/harmanpreet15?tab=repositories) |
 
 **What I worked on**
 - Prepared patient health data for machine learning.
@@ -136,7 +132,7 @@ A machine learning project that predicts diabetes risk using patient health data
 - Used GridSearchCV for model tuning.
 - Evaluated model performance on held-out test data.
 
-**Note:** These are project evaluation results, not a claim of clinical validation.
+*These are project evaluation results, not a claim of clinical validation.*
 
 **Skills:** `Python` `Pandas` `Machine Learning` `SMOTE` `Model Evaluation`
 
@@ -145,9 +141,7 @@ A machine learning project that predicts diabetes risk using patient health data
 <details>
 <summary><strong>03. Online Bookstore — Web Application</strong></summary>
 
-<br/>
-
-A web application for browsing books and managing user interactions, with authentication, book listings, and a review and rating system backed by a database.
+A web application for browsing books and managing user interactions, with authentication, book listings, and a review and rating system.
 
 | Category | Details |
 |:---|:---|
@@ -157,7 +151,7 @@ A web application for browsing books and managing user interactions, with authen
 | **Interface** | Responsive Bootstrap UI |
 | **Data Management** | Persistent storage for books, users, and reviews |
 | **Impact** | Demonstrates web application development and database integration |
-| **Repository** | [View GitHub Repositories](https://github.com/harmanpreet15?tab=repositories) |
+| **Repository** | [GitHub Repositories](https://github.com/harmanpreet15?tab=repositories) |
 
 **What I worked on**
 - Developed bookstore functionality using Python web frameworks.
@@ -198,11 +192,11 @@ A web application for browsing books and managing user interactions, with authen
 <div align="center">
 
 <a href="https://leetcode.com/harman_06/">
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-e8a4c4?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/>
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-e8a4c4?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode profile"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/harmannn">
-<img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-e8a4c4?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks profile"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-e8a4c4?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=black" alt="GeeksforGeeks profile"/>
 </a>
 
 </div>
@@ -214,17 +208,17 @@ A web application for browsing books and managing user interactions, with authen
 <div align="center">
 
 <a href="https://github.com/harmanpreet15">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harmanpreet15&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=e8a4c4&icon_color=c77da5&text_color=e5e1e6" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harmanpreet15&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d0d0f&amp;title_color=e8a4c4&amp;icon_color=c77da5&amp;text_color=e5e1e6" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/harmanpreet15">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanpreet15&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=e8a4c4&text_color=e5e1e6" alt="Top programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmanpreet15&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d0d0f&amp;title_color=e8a4c4&amp;text_color=e5e1e6" alt="Top programming languages"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/harmanpreet15">
-<img src="https://streak-stats.demolab.com?user=harmanpreet15&hide_border=true&background=0d0d0f&ring=c77da5&fire=e8a4c4&currStreakLabel=e8a4c4&sideLabels=e5e1e6&dates=aaa3ad" width="70%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=harmanpreet15&amp;hide_border=true&amp;background=0d0d0f&amp;ring=c77da5&amp;fire=e8a4c4&amp;currStreakLabel=e8a4c4&amp;sideLabels=e5e1e6&amp;dates=aaa3ad" width="70%" alt="GitHub contribution streak"/>
 </a>
 
 </div>
@@ -236,7 +230,7 @@ A web application for browsing books and managing user interactions, with authen
 <div align="center">
 
 <a href="https://github.com/harmanpreet15">
-<img src="https://github-profile-trophy.vercel.app/?username=harmanpreet15&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harmanpreet15&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" width="100%" alt="GitHub profile trophies"/>
 </a>
 
 </div>
@@ -248,7 +242,7 @@ A web application for browsing books and managing user interactions, with authen
 <div align="center">
 
 <a href="https://github.com/harmanpreet15">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harmanpreet15&bg_color=0d0d0f&color=e8a4c4&line=c77da5&point=f2c6dc&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harmanpreet15&amp;bg_color=0d0d0f&amp;color=e8a4c4&amp;line=c77da5&amp;point=f2c6dc&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 </a>
 
 </div>
@@ -303,19 +297,19 @@ I'm always interested in learning, building projects, and connecting with people
 <br/>
 
 <a href="mailto:harmandhaliwall147@gmail.com">
-<img src="https://img.shields.io/badge/Email-e8a4c4?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-e8a4c4?style=for-the-badge&amp;logo=gmail&amp;logoColor=black" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/harmanpreetkaur-aiml">
-<img src="https://img.shields.io/badge/LinkedIn-e8a4c4?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-e8a4c4?style=for-the-badge&amp;logo=linkedin&amp;logoColor=black" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/harmanpreet15">
-<img src="https://img.shields.io/badge/GitHub-e8a4c4?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-e8a4c4?style=for-the-badge&amp;logo=github&amp;logoColor=black" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 *Learning consistently. Building thoughtfully. Improving every day.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77da5,50:382033,100:0d0d0f&height=100&section=footer" width="100%" alt="Pink and black footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:c77da5,50:382033,100:0d0d0f&amp;height=100&amp;section=footer" width="100%" alt="Pink and black footer"/>
 
 </div>

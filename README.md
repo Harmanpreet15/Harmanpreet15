@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1000&amp;color=D9A3BC&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+Projects+That+Solve+Real+Problems;Exploring+AI+and+Machine+Learning;Developing+Full+Stack+Applications;Learning+DSA+One+Problem+at+a+Time" alt="Typing animation"/>
 </a>
 
-<br/>
 
 <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-9B6A8C?style=for-the-badge&amp;logo=academia&amp;logoColor=white" alt="B.Tech AI and ML"/>
 <img src="https://img.shields.io/badge/Location-India-514052?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location"/>
@@ -234,31 +233,6 @@ A library management application focused on organizing book information and prov
 
 <a href="https://github.com/harmanpreet15">
 <img width="65%" src="https://streak-stats.demolab.com?user=harmanpreet15&amp;theme=transparent&amp;hide_border=true&amp;background=0D0D0F&amp;ring=9B6A8C&amp;fire=D9A3BC&amp;currStreakLabel=D9A3BC&amp;sideLabels=E8E1E8&amp;dates=A99BAA" alt="GitHub contribution streak"/>
-</a>
-
-</div>
-
----
----
-
-## 09. GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/harmanpreet15">
-  <img src="https://github-profile-trophy.vercel.app/?username=harmanpreet15&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%" alt="GitHub Profile Trophies"/>
-</a>
-
-</div>
-
----
-
-## 10. Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/harmanpreet15">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harmanpreet15&bg_color=0D0D0F&color=D9A3BC&line=9B6A8C&point=E8C5D8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph"/>
 </a>
 
 </div>

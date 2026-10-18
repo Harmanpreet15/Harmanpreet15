@@ -5,12 +5,12 @@
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1000&amp;color=D9A3BC&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+Projects+That+Solve+Real+Problems;Exploring+AI+and+Machine+Learning;Developing+Full+Stack+Applications;Learning+DSA+One+Problem+at+a+Time" alt="Typing animation"/>
 </a>
-
+<br/>
 
 <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-9B6A8C?style=for-the-badge&amp;logo=academia&amp;logoColor=white" alt="B.Tech AI and ML"/>
 <img src="https://img.shields.io/badge/Location-India-514052?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/harmanpreet15">
 <img src="https://img.shields.io/badge/GitHub-Projects-302536?style=for-the-badge&amp;logo=github&amp;logoColor=D9A3BC" alt="GitHub projects"/>

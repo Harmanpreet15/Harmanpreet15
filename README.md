@@ -9,7 +9,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-9B6A8C?style=for-the-badge&amp;logo=academia&amp;logoColor=white" alt="B.Tech AI and ML"/>
-<img src="https://img.shields.io/badge/CGPA-9.42%2F10-302536?style=for-the-badge" alt="CGPA"/>
 <img src="https://img.shields.io/badge/Location-India-514052?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location"/>
 
 <br/><br/>
@@ -25,11 +24,6 @@
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=harmanpreet15&amp;label=PROFILE%20VIEWS&amp;color=9B6A8C&amp;style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/harmanpreet15?label=FOLLOWERS&amp;style=flat-square&amp;color=514052&amp;logo=github" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/harmanpreet15?label=STARS&amp;style=flat-square&amp;color=9B6A8C&amp;logo=github" alt="GitHub stars"/>
-
 </div>
 
 ---
@@ -245,13 +239,14 @@ A library management application focused on organizing book information and prov
 </div>
 
 ---
+---
 
 ## 09. GitHub Trophies
 
 <div align="center">
 
 <a href="https://github.com/harmanpreet15">
-<img src="https://github-profile-trophy.vercel.app/?username=harmanpreet15&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" width="100%" alt="GitHub profile trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harmanpreet15&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%" alt="GitHub Profile Trophies"/>
 </a>
 
 </div>
@@ -263,7 +258,7 @@ A library management application focused on organizing book information and prov
 <div align="center">
 
 <a href="https://github.com/harmanpreet15">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harmanpreet15&amp;bg_color=0D0D0F&amp;color=D9A3BC&amp;line=9B6A8C&amp;point=E8C5D8&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harmanpreet15&bg_color=0D0D0F&color=D9A3BC&line=9B6A8C&point=E8C5D8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph"/>
 </a>
 
 </div>

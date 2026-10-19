@@ -239,7 +239,7 @@ A library management application focused on organizing book information and prov
 
 ---
 
-## 11. Contribution Snake
+## 9. Contribution Snake
 
 <div align="center">
 
@@ -249,7 +249,7 @@ A library management application focused on organizing book information and prov
 
 ---
 
-## 12. Current Focus
+## 10. Current Focus
 
 ```yaml
 learning:
@@ -278,7 +278,7 @@ open_to:
 
 ---
 
-## 13. Connect With Me
+## 11. Connect With Me
 
 <div align="center">
 

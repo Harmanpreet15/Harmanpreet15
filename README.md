@@ -182,7 +182,7 @@ A library management application focused on organizing book information and prov
 - Use GitHub to manage and share coding projects.
 - Improve code quality through testing, debugging, and iteration.
 
-**Skills:** `Java` `Python` `Web Development` `Git` `Problem Solving`
+**Skills:** `Java` `C++` `Python` `Web Development` `Git` `Problem Solving`
 
 ---
 
